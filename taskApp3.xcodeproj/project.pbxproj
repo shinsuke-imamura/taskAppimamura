@@ -14,6 +14,7 @@
 		13E317831D0EAB130050033C /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13E317821D0EAB130050033C /* InputViewController.swift */; };
 		13E317851D0EABAE0050033C /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13E317841D0EABAE0050033C /* Task.swift */; };
 		13E317871D0EABEA0050033C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13E317861D0EABEA0050033C /* Main.storyboard */; };
+		13E317891D0EACE80050033C /* podfile in Resources */ = {isa = PBXBuildFile; fileRef = 13E317881D0EACE80050033C /* podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		13E317821D0EAB130050033C /* InputViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 		13E317841D0EABAE0050033C /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		13E317861D0EABEA0050033C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		13E317881D0EACE80050033C /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				13E3176F1D0EA8050050033C /* taskApp3 */,
 				13E3176E1D0EA8050050033C /* Products */,
+				13E317881D0EACE80050033C /* podfile */,
 			);
 			sourceTree = "<group>";
 		};
@@ -131,6 +134,7 @@
 			files = (
 				13E317871D0EABEA0050033C /* Main.storyboard in Resources */,
 				13E3177B1D0EA8050050033C /* LaunchScreen.storyboard in Resources */,
+				13E317891D0EACE80050033C /* podfile in Resources */,
 				13E317781D0EA8050050033C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
